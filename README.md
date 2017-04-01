@@ -8,3 +8,6 @@ Experimental tests with redux-react and middleware
 	> npm install
 	> npm start
 ```
+
+Simple middleware implementation for any type of async actions that use Promise requests.
+	 - e.g Axios, Fetch
